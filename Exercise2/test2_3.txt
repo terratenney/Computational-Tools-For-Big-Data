@@ -1,0 +1,17 @@
+[
+    {
+        "giver_username_if_known": "N/A", 
+        "number_of_downvotes_of_request_at_retrieval": 0, 
+        "number_of_upvotes_of_request_at_retrieval": 1, 
+        "post_was_edited": false, 
+        "request_id": "t3_l25d7", 
+        "request_number_of_comments_at_retrieval": 0, 
+        "request_text": "Hi I'm $200 Billy... and I can't swim or SWIM!\n and\n http://imgur.com/B0uoo", 
+        "request_text_edit_aware": "Hi I am in need "
+
+    },
+
+    {
+	"request_text": "Hi I'm Billy ...and also BILLY and you can't run?\n\n\n usfstuff@yahoo.com", 
+    }
+]
