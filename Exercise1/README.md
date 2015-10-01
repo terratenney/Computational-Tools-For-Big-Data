@@ -6,7 +6,7 @@ Write a command that finds the 10 most popular words in a file.
 
 Exercise 1.2:
 
-Put this data (https://www.dropbox.com/s/d5c4x905w4jelbu/cars.txt?dl=0) into a file and write a command that removes all rows where the price is more than 10,000$.
+Put this data (https://www.dropbox.com/s/d5c4x905w4jelbu/cars.txt?dl=0) into a file and write a command that removes all rows where the price is more than $10,000.
 
 Exercise 1.3:
 
