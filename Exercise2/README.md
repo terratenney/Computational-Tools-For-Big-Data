@@ -1,4 +1,5 @@
 Instructions for Exercise 2:
+
 Exercise 2.1:
 
 Write a script with two methods. The first method should read in a matrix and return a list of lists. The second method should do the inverse, namely take, as input, a list of lists and save it in a file with same format as the initial file. The first method should take the file name as a parameter. The second method should take two arguments, the list of lists, and a filename of where to save the output.
