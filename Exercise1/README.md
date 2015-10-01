@@ -18,6 +18,6 @@ Exercise 1.4:
 
 Launch a t2.micro instance on Amazon EC2. Log onto the instance, create some files and install some software (for example git).
 
-Exercise 1.5:
+Exercise 1.5: 
 
 Create a few files locally on your computer. Create a new repository on Github and push your files to this repository. Log on to a t2.micro instance on Amazon EC2 and clone your repository there. Make some changes to the files, push them again and pull the changes on your local machine.
