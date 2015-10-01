@@ -1,4 +1,4 @@
-Instructions for Exercises Completed:
+Instructions for Exercise 1:
 
 Exercise 1.1:
 
