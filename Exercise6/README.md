@@ -1,4 +1,4 @@
-This week I used a Graphing Database to solve a series of problems. The Graphing Database I used Neo4j in the Cypher query language.
+This week I used a Graphing Database to solve a series of problems. The Graphing Database I used Neo4j in the Cypher query language. The txt documents contain the commands and the csv documents contain the results.
 
 Instructions for Exercise 6:
 
