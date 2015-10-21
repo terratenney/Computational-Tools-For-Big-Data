@@ -1,0 +1,1 @@
+MATCH (cust)-[o:PURCHASED]->(ord)-[r:ORDERS]->(p) WHERE p.productID = '7' MATCH (cust)-->(or)-[q:ORDERS]->(op) WHERE NOT(q.productID = '7') RETURN DISTINCT q.productID AS Products_Also_Bought, count(DISTINCT q) AS Most ORDER BY -1*count(DISTINCT q) LIMIT 1

@@ -1,0 +1,1 @@
+MATCH (n {customerID: 'ALFKI'})-[r:ORDERS]->(p)  RETURN r.orderID,p.productID

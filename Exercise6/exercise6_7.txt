@@ -1,0 +1,1 @@
+MATCH (o)-[r:ORDERS]->(p) WHERE o.customerID = 'ALFKI' MATCH (ord)-[q:ORDERS]->(p) WHERE NOT(ord.customerID = 'ALFKI') RETURN DISTINCT ord.customerID AS Other_Customers

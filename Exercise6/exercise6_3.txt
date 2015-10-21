@@ -1,0 +1,1 @@
+MATCH (n {customerID: 'ALFKI'})-[r:ORDERS]->(p) WHERE size((n)-->()) > 1 RETURN r.orderID,p.productID

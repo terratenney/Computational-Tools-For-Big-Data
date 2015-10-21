@@ -1,0 +1,2 @@
+MATCH (cust)-[o:PURCHASED]->(ord)-[r:ORDERS]->(p) WHERE p.productID = '7' MATCH (cust)-->(or)-[q:ORDERS]->(op) WHERE NOT(q.productID = '7') RETURN DISTINCT q.productID as Products_Also_Bought
+MATCH (cust)-[o:PURCHASED]->(ord)-[r:ORDERS]->(p) WHERE p.productID = '7' MATCH (cust)-->(or)-[q:ORDERS]->(op) WHERE NOT(q.productID = '7') RETURN count(DISTINCT q.productID) as Amount_of_Diff_Products

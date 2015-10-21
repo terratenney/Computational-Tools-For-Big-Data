@@ -1,0 +1,2 @@
+MATCH (cust)-[r:ORDERS]->(p) WHERE p.productID = '7' RETURN DISTINCT cust.customerID as Cutomers, sum(r.quantity) as Amount_Each
+MATCH (cust)-[r:ORDERS]->(p) WHERE p.productID = '7' RETURN sum(r.quantity) as Amount_Total
