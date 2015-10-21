@@ -1,3 +1,5 @@
+For this week I used SQL and NoSQL to solve a series of problems from a Database. I used SQLite and MongoDB.
+
 Instructions for Exercise 5:
 
 Exercise 5.1:
