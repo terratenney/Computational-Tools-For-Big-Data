@@ -1,3 +1,5 @@
+This week was completed by solving a series of problems using the UNIX Terminal, Git, and AmazonEC2.
+
 Instructions for Exercise 1:
 
 Exercise 1.1:
