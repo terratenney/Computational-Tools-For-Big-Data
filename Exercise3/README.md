@@ -1,3 +1,5 @@
+For this week I used various Python Libraries to solve a series of problems. They were Numpy, Scipy, Scikit-learn, Cython, and Pandas.
+
 Instructions for Exercise 3:
 
 Exercise 3.1 (numpy):
