@@ -1,3 +1,5 @@
+This week I wrote functions that use Python's MRJob and generators to apply Map Reduce procedures.
+
 Exercise 1:
 
 Define and implement a MapReduce job to count the occurrences of each word in a text file. Document that it works with a small example.
