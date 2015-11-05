@@ -1,4 +1,4 @@
-This week I wrote some streaming algorithms in python for dealing with data that is too large to store.
+This week I wrote some streaming algorithms in Python for dealing with data that is too large to store.
 
 Exercise 7.1
 
