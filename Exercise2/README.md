@@ -1,3 +1,5 @@
+This week I solved basic exercises using Python.
+
 Instructions for Exercise 2:
 
 Exercise 2.1:
