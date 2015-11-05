@@ -8,7 +8,7 @@ Week 1 – UNIX, Git and Amazon EC2
 
 Week 2 – Python
 
-Week 3 – Python Libraries
+Week 3 – Python Libraries (NumPy, SciPy, Scikit-learn, Cython, and Pandas)
 
 Week 4 – DBSCAN
 
