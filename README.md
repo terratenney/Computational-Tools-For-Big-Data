@@ -26,4 +26,4 @@ Week 10 – Deep Learning
 
 Week 11 – Feature Hashing and LSH
 
-Week 12 – Vowpal Wabbit
+Week 12+ – Personal Project
