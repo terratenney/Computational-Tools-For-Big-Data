@@ -54,7 +54,7 @@ def randomforest(data):
 	xTest = np.array( xData[-xtotal_test_samples:] )
 	yTest = np.array( yData_Vec[-ytotal_test_samples:] )
 
-	#Build Model
+	#Build model with 50 trees
 	forestModel = RandomForestClassifier(50)
 
 	#Train it
@@ -151,7 +151,6 @@ def featurehash(merge_list,buckets):
 	word_uniq = []
    
 	for json in merge_list:
-		#for body in json:
 		body = json["body"]	
 		line_count += 1
 
@@ -188,7 +187,7 @@ def featurehash(merge_list,buckets):
 
 		#Fill words
 		for i in lines[l]:
-			hashtable[l][i] += 1 	#Fill in ever index hashed
+			hashtable[l][i] += 1 	#Fill in every index hashed
 
 		#Fill output
 		if output[l] == 1:
